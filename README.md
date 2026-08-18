@@ -1,4 +1,4 @@
-# 02 C Programming
+# C Programming
 My C programming learning repository for building a strong foundation in programming, memory, and low-level concepts relevant to cybersecurity.
 
 ## Goals
